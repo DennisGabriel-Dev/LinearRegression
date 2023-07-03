@@ -3,7 +3,7 @@
  Nesse projeto importei o módulo "LinearRegression" da biblioteca externa chamada sklearn(https://scikit-learn.org/), e a biblioteca matplotlib(https://matplotlib.org/).
 
  Nessa resolução o gráfico é apresentado, e em seguida é pedido uma idade para ser analisada na regressão, em seguida,
-é retornado um valor(custo) adequado para o plano de saúde da idade informada. <br> Observação: é preciso rodar no colab("https://colab.research.google.com/") ou jupyter-lab("https://jupyter.org/install")<br> para uma análise adequada.<br> Caso queira usar o jupyter(mais rápido) você deve instalar algumas bibliotecas: numpy, matplotlib e skilearn, além do próprio jupyter.
+é retornado um valor(custo) adequado para o plano de saúde da idade informada. <br> Observação: é preciso rodar no colab("https://colab.research.google.com/") ou jupyter-lab("https://jupyter.org/install")<br> para uma análise adequada.<br> Caso queira usar o jupyter(mais rápido) você deve instalar algumas bibliotecas: numpy, matplotlib e sklearn, além do próprio jupyter.
 
  Obs: SE, SOMENTE SE, VOCÊ ESTIVER USANDO O JUPYTER rode os seguintes comandos no seu terminal(você precisa do python instalado):
 ```bash
